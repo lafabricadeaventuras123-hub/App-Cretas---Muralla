@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel's Challenge: The Order of Calatrava",
+  "description": "An interactive quiz game where users must answer questions from a sentinel about the Order of Calatrava to gain entry to the medieval town of Cretas. The app uses Gemini to dynamically generate the quiz questions.",
+  "requestFramePermissions": []
+}
